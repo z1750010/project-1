@@ -1,0 +1,8 @@
+var a = 0
+var b = function(a){
+  while(a < 13){
+    confirm("Are you annoyed yet?");
+    a++;
+    };
+};
+b(a);
